@@ -13,15 +13,19 @@ This project aims to develop a multiple linear regression model to predict the d
 
 ## General Information
 - Provide general information about your project here.
+
 This project focuses on predicting the demand for shared bikes using a multiple linear regression model. BoomBikes, a bike-sharing provider in the US, is seeking to understand how various factors, such as weather conditions, seasonality, and user registrations, impact bike rental demand, especially in the wake of the COVID-19 pandemic. The insights gained from this analysis will help the company enhance its business strategies and better serve customers as they prepare for a market recovery. The dataset includes daily bike rental information, which will be carefully processed to identify significant predictors of demand.
 
 - What is the background of your project?
+
 The project addresses the challenges faced by BoomBikes, a US bike-sharing provider, following significant revenue declines during the COVID-19 pandemic. As demand for shared bikes is expected to increase post-lockdown, the company aims to understand the factors driving this demand to enhance its service offerings. By analyzing a dataset that captures daily bike rental trends alongside various influencing factors—such as weather conditions, seasons, and user demographics—this project seeks to develop a predictive model. The insights gained will help BoomBikes optimize its business strategies and effectively cater to customer needs in a recovering market.
 
 - What is the business probem that your project is trying to solve?
+
 The project aims to solve the problem of declining bike rental demand for BoomBikes due to the COVID-19 pandemic. As the market begins to recover, the company needs to understand the factors that influence demand for shared bikes. This knowledge is essential for developing effective business strategies to optimize operations, improve customer satisfaction, and increase revenue. By predicting bike rental demand based on various independent variables, BoomBikes can better align its services with customer needs in the post-pandemic landscape.
 
 - What is the dataset that is being used?
+
 The dataset used for this project comprises daily bike rental records from BoomBikes. It includes various features that capture different aspects influencing bike demand. Key components of the dataset include:
 
 cnt: The total number of bike rentals (target variable).
